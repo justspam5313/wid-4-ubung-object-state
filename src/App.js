@@ -47,7 +47,7 @@ export default function App() {
             alert(`Gesendet an ${name}, in ${strasse} ${hausnummer}`);
           }}
         >
-          Absenden
+          Absenden!
         </button>
         <button className="Button" onClick={() => null}>
           Zurücksetzen
